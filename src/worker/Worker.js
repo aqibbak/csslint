@@ -1,7 +1,6 @@
 /*
  * Web worker for CSSLint
  */
-
 /* global self, JSON */
 
 // message indicates to start linting
